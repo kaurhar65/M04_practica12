@@ -1,0 +1,32 @@
+<students>
+  <student pais="India">
+    <name>Harpreet</name>
+    <surname>Kaur</surname>
+    <email>hkaur22@jaumebalmes.net</email>
+    <child>12345678H</child>
+  </student>
+  <student pais="Catalunya">
+    <name>Laia</name>
+    <surname>Rodriguez</surname>
+    <email>lrodriguez22@jaumebalmes.net</email>
+    <child>3456789L</child>
+  </student>
+  <student pais="Norueg">
+    <name>David</name>
+    <surname>Arguelles</surname>
+    <email>darguelles22@jaumebalmes.net</email>
+    <child>98765432D</child>
+  </student>
+  <student pais="Catalunya">
+    <name>Alex</name>
+    <surname>Navarro</surname>
+    <email>anavarro@jaumebalmes.net</email>
+    <child>45678987A</child>
+  </student>
+  <student pais="Peruana">
+    <name>Patricia</name>
+    <surname>Valencia</surname>
+    <email>pvalenci22@jaumebalmes.net</email>
+    <child>56543234P</child>
+  </student>
+</students>
